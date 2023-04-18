@@ -1,0 +1,27 @@
+#navbarSupportedContent .navbar-nav .nav-item .nav-link{
+    color: white;
+}
+.form-control::placeholder{
+    color: blue;
+}
+.navbar .container-fluid{
+    height:93px;
+}
+.navbar .container-fluid .navbar-brand{
+    text-decoration: solid;
+    font-style: italic;
+    font-size: 25px;
+    padding: 0%;
+    margin: 0%;
+}
+#image{
+    width: 70%;
+    height: auto;
+}
+.navbar .container-fluid .navbar-brand .navbar-toggler-icon{
+    color: black;
+}
+body{
+    background-color: antiquewhite;
+
+}
